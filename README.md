@@ -62,6 +62,7 @@ This dashboard was built entirely in **Microsoft Excel** to analyze and visualiz
 | File | Description |
 |---|---|
 | `Digital_Marketing_Dashboard.xlsx` | Main Excel dashboard file |
+| `Digital_Marketing_Performance_Dashboard.png` |  Dashboard Screenshot |
 | `README.md` | Project documentation |
 
 ---
