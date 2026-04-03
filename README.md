@@ -1,5 +1,8 @@
 # 📊 Digital Marketing Performance Dashboard | Excel
 
+<img width="1852" height="661" alt="Digital_Marketing_Performance_Dashboard" src="https://github.com/user-attachments/assets/3b0b29be-0633-4db9-bdd4-fcb050a20f8c" />
+
+
 An interactive Excel dashboard analyzing **$8.3M in digital marketing spend** across Google Ads, Facebook Ads & Display Ads. Built using **Pivot Tables & Charts** with slicers for dynamic filtering. Uncovers key insights on CTR, CPA, Conversions & Monthly Spend trends.
 
 ---
